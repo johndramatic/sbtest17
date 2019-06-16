@@ -1,5 +1,5 @@
 --- 
-name: mylb2
+name: mylb17
 namespace: com.citrix.adc.commontypes
 version: "1.0"
 schema-version: "1.0"
@@ -15,10 +15,10 @@ import-stylebooks:
     version: "10.5"
     
 parameters-default-sources:
-  - cmtypes::lbname1
-  - cmtypes::lbip1
-  - cmtypes::lbport1
-  - cmtypes::lbsvctype1
+  - cmtypes::lbname17
+  - cmtypes::lbip17
+  - cmtypes::lbport17
+  - cmtypes::lbsvctype17
 
 
 components: 
